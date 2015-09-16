@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 無垢優婆夷問經
+#+DATE: 2015-08-30 20:12:53.434713
+#+PROPERTY: JUAN 0
