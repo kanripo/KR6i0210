@@ -1,0 +1,6 @@
+001-0950b00	TKD 20-1204a	buddhist/K-koreana/20-tif/1200-1299/20_1204_A.TIF
+001-0950c26	TKD 20-1204b	buddhist/K-koreana/20-tif/1200-1299/20_1204_B.TIF
+001-0951a11	TKD 20-1204c	buddhist/K-koreana/20-tif/1200-1299/20_1204_C.TIF
+001-0951b06	TKD 20-1205a	buddhist/K-koreana/20-tif/1200-1299/20_1205_A.TIF
+001-0951a00	T 001-0951a	buddhist/T-taisho/T14/09/T14-0951.png
+001-0951b00	T 001-0951b	buddhist/T-taisho/T14/09/T14-0951.png
